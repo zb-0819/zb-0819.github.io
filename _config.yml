@@ -4,7 +4,7 @@ SEOTitle: BEN的博客 | BEN`s Blog
 header-img: img/post-bg-desk.jpg
 email: 714591092@qq.com
 description: "Every failure is leading towards success."
-keyword: "BEN, BEN`s Blog, 张斌的博客, zhangbin, 张斌, iOS, Apple, iPhone"
+keyword: "BEN, BEN`s Blog, 张斌的博客, zhangbin, 张斌, 前端, WEB, WEB前端"
 url: "http://zb-0819.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://zb-0819.com/zb-0819/zb-0819.github.io.git" # you code repository
@@ -19,8 +19,8 @@ sidebar-avatar: /img/about-BEN-gentle.jpg      # use absolute URL, seeing it's u
 # SNS settings
 RSS: false
 # weibo_username:     zhangbin
-zhihu_username:     zhangbin
-github_username:    zhangbin
+zhihu_username:     BEN
+github_username:    zb-0819
 facebook_username:  none
 jianshu_username:   none
 #twitter_username:   none
